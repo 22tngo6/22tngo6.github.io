@@ -1,6 +1,6 @@
 # Justin Ngo's Portfolio
 
-I am a somputer science mojor at CSUF and I plan on graduating in 2026.
+I am a computer science major at CSUF and I plan on graduating in 2026.
 
 ## Favorite CPSC 120L Labs
 
