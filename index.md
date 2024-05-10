@@ -1,8 +1,12 @@
 # Justin Ngo's Portfolio
 
-I am a computer science major at CSUF and I plan on graduating in 2026.
+This is my home page! My name is Justin Ngo and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is computer science.
 
-## Favorite CPSC 120L Labs
+## Computer Science Projects
+
+My GitHub page is http://github.com/22tngo6.
+
+### CPSC 120
 
 * Lab 4, Part 2
 
